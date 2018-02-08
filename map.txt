@@ -1,0 +1,32 @@
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+m           /\     /\                                                      /\          /\                                       m
+m       /\ /  \   /  \     /\                                        /\   /  \        /  \     /\                               m
+m      /  /    \ /    \/\ /  \                                      /  \ /    \   /\ /    \   /  \                              m
+m     /         \      \ \    \    MOUNTAINS (bear nest)           /    \      \ /  \      \ /    \                             m
+m    /           \      \ \    \                                  /             \           \                                   m
+m   /                              |                                                                                            m
+m                                  |                                                                                            m
+m                                  |                                                                                            m
+m                                  |       _  _    _                         __    __                                           m
+m                                         /\\/\\\ /\\\                      /\\\  /\\\                                          m
+m                                           |  || _ ||__                    |  ||   ||                         TAVERN           m
+m                           VILLAGE MARKET  _______                                                 ______----   .              m
+m                                                 -----------___________    NEIGHBORING VILLAGE  ---            / \\\           m
+m                                  |                                                                          _| T |||_         m
+m                                  |                                                   |                                        m
+m         .                        |                                                   |                                        m
+m        / \\                      |                                                   |                                        m
+m      _| H ||_                    |                                                   |                                        m
+m                  ___             |                                                   |                                        m
+m           HUT       \\__                                                             |                                        m
+m                          \___  POTATO FIELD OF DREAMS   ____                         |                                        m
+m                                                             \______                                                           m
+m                                                                    \____                                                      m
+m                                                                              STINGY POTATO FIELD                  N           m
+m                                                                                                                   |           m
+m       You begin in the village market.                                                                        W --+-- E       m
+m       Bear may attack, but only in western market and field.                                                      |           m
+m       You will perish if and only if you run out of potatoes.                                                     S           m
+m                                                                                                                               m
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+
