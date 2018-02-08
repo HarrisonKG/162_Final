@@ -1,5 +1,5 @@
 
-This is my final project for CS162. It's a command line game that sets the user on a quest to save the village from bear attacks!  
+This is my final project for CS162. It's a C++ command line game that sets the user on a quest to save the village from bear attacks!  
   
 Most of my coursework is in private repositories out of concerns for academic honesty, but I'm including this one here because it was a very open-ended project and we were provided examples of previous students' work as inspiration. The version control for this is in the private repo though.  
 
